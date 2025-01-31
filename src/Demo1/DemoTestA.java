@@ -4,8 +4,10 @@ public class DemoTestA {
 	public static void main(String[] args) {
 
 		int result1 = add(2, 3, 4, 5);
+		int result2 = add(18, 3, 22, 77);
 
 		System.out.println(result1);
+		System.out.println(result2);
 
 	}
 
